@@ -1,1 +1,1 @@
-Relógio Digital
+Projeto feito com HTML, CSS e JAVASCRIPT. 
